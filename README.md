@@ -1,0 +1,1 @@
+# wannacry-forensic-case-study-g35
