@@ -38,4 +38,4 @@ On Google Colab: upload the file, then run `!python wannacry_forensic_demo.py`.
 Four alerts, all on the simulated infected host PC-09.
 
 ## GitHub
-Repository link: <paste your link here>
+Repository link:https://github.com/RiddhiMusale01/wannacry-forensic-case-study-g35
